@@ -6,4 +6,8 @@ class Dog
   def @initialize(breed)
     @breed = breed
   end
-  lassie = Dog.new(breed)
+  
+  class Dog 
+    def name
+      puts "bella"
+      bella
