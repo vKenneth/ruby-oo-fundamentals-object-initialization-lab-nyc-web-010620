@@ -7,7 +7,4 @@ class Dog
     @breed = breed
   end
   
-  class Dog 
-    def name
-      puts "bella"
-      bella.breed(breed)
+  
