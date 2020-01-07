@@ -10,4 +10,4 @@ class Dog
   class Dog 
     def name
       puts "bella"
-      bella
+      bella.breed(breed)
