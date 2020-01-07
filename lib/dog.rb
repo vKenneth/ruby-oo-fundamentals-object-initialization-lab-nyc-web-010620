@@ -6,3 +6,4 @@ class Dog
   def @initialize(breed)
     @breed = breed
   end
+  lassie = dog.new(breed)
